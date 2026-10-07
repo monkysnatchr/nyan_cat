@@ -1,2 +1,2 @@
 # nyan_cat
-Nyan Cat in Python!
+A simple animation of Nyan Cat with a MIDI file! For Linux, you'll need aplaymidi to play the MIDI file.
